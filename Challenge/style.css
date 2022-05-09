@@ -1,0 +1,47 @@
+
+.jumbotron {
+  color: #ffffff;
+  background-color: #222147;
+  border-color: #222147;
+  background-size: 100% 100%;
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+  background-image: url("bacteria.jpeg");
+  background-size: 100% 100%;
+  text-align: center;
+}
+
+
+
+body {
+  background-color: #000000;
+}
+
+.in-progress {
+  cursor: progress;
+}
+
+.panel-primary {
+  color: #ffffff;
+  font-family: 'Times New Roman', Times, serif;
+  background-color: #222147;
+  border-color: #222147;
+}
+
+.panel-heading {
+  background-color: #222147;
+  font-family: 'Times New Roman', Times, serif;
+  border-color: #222147;
+}
+.well {
+  color: #ffffff;
+  font-family: 'Times New Roman', Times, serif;
+  background-color: #222147;
+  border-color: #222147;
+}
+.panel-title {
+  color: #ffffff;
+  font-family: 'Times New Roman', Times, serif;
+  border-color: #222147;
+}
+
